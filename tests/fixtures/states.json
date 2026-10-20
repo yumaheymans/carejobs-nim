@@ -1,0 +1,52 @@
+{
+ "states": [
+  {
+   "code": "TX",
+   "name": "Texas",
+   "open_jobs": 11319,
+   "employers": 224,
+   "top_kinds": [
+    {
+     "kind": "nurses",
+     "label": "Nurses",
+     "open_jobs": 3997
+    },
+    {
+     "kind": "therapy-rehab",
+     "label": "Therapy & rehab",
+     "open_jobs": 1497
+    },
+    {
+     "kind": "physicians",
+     "label": "Doctors",
+     "open_jobs": 1068
+    }
+   ],
+   "url": "https://carejobs.now/states/texas"
+  },
+  {
+   "code": "FL",
+   "name": "Florida",
+   "open_jobs": 10944,
+   "employers": 201,
+   "top_kinds": [
+    {
+     "kind": "nurses",
+     "label": "Nurses",
+     "open_jobs": 3744
+    },
+    {
+     "kind": "therapy-rehab",
+     "label": "Therapy & rehab",
+     "open_jobs": 1195
+    },
+    {
+     "kind": "imaging",
+     "label": "Imaging",
+     "open_jobs": 959
+    }
+   ],
+   "url": "https://carejobs.now/states/florida"
+  }
+ ]
+}

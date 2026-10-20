@@ -1,0 +1,41 @@
+{
+ "as_of": "2026-10-20",
+ "kind": "nurses",
+ "open_jobs": 97460,
+ "pay": {
+  "median": 45,
+  "typical_low": 40,
+  "typical_high": 80,
+  "rate_samples": 21465,
+  "employers": 515,
+  "open_jobs": 97460,
+  "no_rate": 70317,
+  "market_rate": true
+ },
+ "best_paying": [
+  {
+   "slug": "the-helper-bees",
+   "name": "The Helper Bees",
+   "median": 125,
+   "typical_low": 125,
+   "typical_high": 125,
+   "rate_samples": 17,
+   "employers": 1,
+   "open_jobs": 17,
+   "no_rate": 0,
+   "market_rate": false
+  },
+  {
+   "slug": "stanford-health-care",
+   "name": "Stanford Health Care",
+   "median": 105,
+   "typical_low": 100,
+   "typical_high": 115,
+   "rate_samples": 32,
+   "employers": 1,
+   "open_jobs": 34,
+   "no_rate": 0,
+   "market_rate": false
+  }
+ ]
+}

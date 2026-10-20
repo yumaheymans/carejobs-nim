@@ -1,0 +1,42 @@
+{
+ "total": 562,
+ "pay": {
+  "typical_low": 45,
+  "typical_high": 65,
+  "median": 45,
+  "rate_samples": 91,
+  "priced": 92,
+  "open": 562
+ },
+ "jobs": [
+  {
+   "title": "New Grad Registered Nurse (RN) - ICU",
+   "employer": "Tenet Healthcare",
+   "via": null,
+   "kind": "Nurses",
+   "pay": "$55 to $95/hr (typical of registered nurse and LPN jobs at Tenet Healthcare, measured from its open jobs; not a rate this posting states)",
+   "schedule": [
+    "Full-time"
+   ],
+   "facility": null,
+   "location": "San Antonio, TX",
+   "listed": "2026-10-19",
+   "url": "https://carejobs.now/jobs/tenet-healthcare/new-grad-registered-nurse-rn-icu",
+   "employer_page": "https://carejobs.now/employers/tenet-healthcare"
+  },
+  {
+   "title": "Registered Nurse ICU",
+   "employer": "Prime Healthcare",
+   "via": null,
+   "kind": "Nurses",
+   "pay": "$50 to $65/hr (typical of registered nurse and LPN jobs at Prime Healthcare, measured from its open jobs; not a rate this posting states)",
+   "schedule": [],
+   "facility": null,
+   "location": "Dallas, TX",
+   "listed": "2026-10-19",
+   "url": "https://carejobs.now/jobs/prime-healthcare/registered-nurse-icu",
+   "employer_page": "https://carejobs.now/employers/prime-healthcare"
+  }
+ ],
+ "more": "https://carejobs.now/?work=nurses&q=ICU&state=TX&country=all#live-roles"
+}
